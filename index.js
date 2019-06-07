@@ -4,5 +4,3 @@ class boardMembers {
     this.homeState = homeState;
     this.training = training;
   };
-
-  
